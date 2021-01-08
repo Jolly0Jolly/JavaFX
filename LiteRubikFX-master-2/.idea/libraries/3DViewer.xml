@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="3DViewer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RubikFX-master/lib/3DViewer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RubikFX-master/lib/controlsfx-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
